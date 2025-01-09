@@ -1,4 +1,4 @@
-#Concept  Ý tưởng  
+# Concept  Ý tưởng  
 This lesson presents the basics for understanding the transfer of data between the browser and the web application and how to trap a request/response with a HTTP proxy.  
 `Bài học này trình bày những kiến ​​thức cơ bản để hiểu việc truyền dữ liệu giữa trình duyệt và ứng dụng web cũng như cách chặn yêu cầu/phản hồi bằng proxy HTTP.`  
 
